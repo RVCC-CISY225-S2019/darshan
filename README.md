@@ -8,3 +8,4 @@ This is my final project. In this project I applied all the concepts I studied i
 5)	I added my background to linear gradient to show example of my blog CSS Gradient.
 6)	Changed my profile picture layout.
 7)	Add footer with link to my linkedin and github profile.
+8) Also I made a bootstrap version of my project.
