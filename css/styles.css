@@ -62,12 +62,14 @@ button {
 }
 
 button:hover {
-	background: #1C6EA4;
+	background: #acb6e5;
+}
+.button:active {
+  background-color: #144E75;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
 
-button:active {
-	background: #144E75;
-}
 
 textarea {
 	box-sizing: border-box;
